@@ -1,1 +1,4 @@
-# Javascript-808-Drum-kit
+- Press keys 1-9
+- Made the buttons to look like the real 808
+- when a key is pressed it will play the sound, scale the button and also add and remove the white circle
+- sounds were processed through an Elektron AnalogDrive to give this kit a very unique sound 
